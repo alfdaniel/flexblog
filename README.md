@@ -6,4 +6,4 @@ Projeto desenvolvido através do curso de flebox na plataforma de ensino Origami
 - link do curso
  https://www.origamid.com/curso/css-flexbox/
  
- > Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Concluido :heavy_check_mark:
