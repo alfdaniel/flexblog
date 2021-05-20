@@ -8,4 +8,4 @@ Projeto desenvolvido através do curso de flebox na plataforma de ensino Origami
  
 > Status do Projeto: Concluido :heavy_check_mark:
 
-https://github.com/alfdaniel/flexblog/blob/master/FLEXBLOG%20DANIEL.JPG
+<img src=https://github.com/alfdaniel/flexblog/blob/master/FLEXBLOG%20DANIEL.JPG/>
